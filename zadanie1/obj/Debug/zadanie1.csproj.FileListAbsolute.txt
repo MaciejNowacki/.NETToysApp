@@ -1,0 +1,27 @@
+c:\users\dotnet-12\documents\visual studio 2015\Projects\zadanie1\zadanie1\bin\Debug\zadanie1.exe.config
+c:\users\dotnet-12\documents\visual studio 2015\Projects\zadanie1\zadanie1\bin\Debug\zadanie1.exe
+c:\users\dotnet-12\documents\visual studio 2015\Projects\zadanie1\zadanie1\bin\Debug\zadanie1.pdb
+c:\users\dotnet-12\documents\visual studio 2015\Projects\zadanie1\zadanie1\obj\Debug\zadanie1.Form1.resources
+c:\users\dotnet-12\documents\visual studio 2015\Projects\zadanie1\zadanie1\obj\Debug\zadanie1.Properties.Resources.resources
+c:\users\dotnet-12\documents\visual studio 2015\Projects\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.GenerateResource.Cache
+c:\users\dotnet-12\documents\visual studio 2015\Projects\zadanie1\zadanie1\obj\Debug\zadanie1.exe
+c:\users\dotnet-12\documents\visual studio 2015\Projects\zadanie1\zadanie1\obj\Debug\zadanie1.pdb
+E:\SEMESTR 6\NET\zadanie1\zadanie1\bin\Debug\zadanie1.exe.config
+E:\SEMESTR 6\NET\zadanie1\zadanie1\bin\Debug\zadanie1.exe
+E:\SEMESTR 6\NET\zadanie1\zadanie1\bin\Debug\zadanie1.pdb
+E:\SEMESTR 6\NET\zadanie1\zadanie1\obj\Debug\zadanie1.csprojAssemblyReference.cache
+E:\SEMESTR 6\NET\zadanie1\zadanie1\obj\Debug\zadanie1.Form1.resources
+E:\SEMESTR 6\NET\zadanie1\zadanie1\obj\Debug\zadanie1.Properties.Resources.resources
+E:\SEMESTR 6\NET\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.GenerateResource.cache
+E:\SEMESTR 6\NET\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.CoreCompileInputs.cache
+E:\SEMESTR 6\NET\zadanie1\zadanie1\obj\Debug\zadanie1.exe
+E:\SEMESTR 6\NET\zadanie1\zadanie1\obj\Debug\zadanie1.pdb
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\bin\Debug\zadanie1.exe.config
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.exe
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.pdb
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.csprojResolveAssemblyReference.cache
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.Form1.resources
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.Properties.Resources.resources
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.GenerateResource.Cache
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\bin\Debug\zadanie1.exe
+C:\Users\dotnet-12\Desktop\zadanie1\zadanie1\bin\Debug\zadanie1.pdb
